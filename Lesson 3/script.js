@@ -35,6 +35,12 @@ console.log(answer)*/
 /*let answer = prompt("Are you here?", "YES");
 console.log(typeof(answer));*/
 
+// confirm("Are you here?"); // выдает только два варианта ответа, true, false
+
+// prompt("Are you here?", "YES"); // выдает поле для ввода инорамации в string и предаварительно заполненный ответ.
+
+
+
 let incr = 10,
     decr = 10;
 
